@@ -1,6 +1,6 @@
 {
   "name": "axios-cache-plugin-localstorage",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Axios 的缓存插件，支持内存缓存，支持 localStorage 缓存，并只是设置缓存时间",
   "main": "index.js",
   "directories": {
@@ -8,8 +8,7 @@
   },
   "scripts": {
     "test": "jest",
-    "build": "webpack",
-    "publish": "npm publish "
+    "build": "webpack"
   },
   "keywords": [
     "Axios",
